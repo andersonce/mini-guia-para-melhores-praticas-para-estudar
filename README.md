@@ -1,4 +1,5 @@
-# Metodologias para melhorar a aprendizagem quando estiver estudando segundo NeuroCiencia.
+# link:https://notebooklm.google.com/notebook/99dd55c3-7960-469e-b00e-a5081364cbcf/preview
+Metodologias para melhorar a aprendizagem quando estiver estudando segundo NeuroCiencia.
 - Melhores praticas na hora de estudar segundo a neurociencia.
 
 - FONTES:
